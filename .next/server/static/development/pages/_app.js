@@ -118,7 +118,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _css_navigationBar_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../css/navigationBar.css */ "./css/navigationBar.css");
 /* harmony import */ var _css_navigationBar_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_navigationBar_css__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\sterl\\Downloads\\SouthPointeBand\\pages\\_app.js";
+var _jsxFileName = "C:\\Users\\sterl\\Downloads\\SP\\pages\\_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
