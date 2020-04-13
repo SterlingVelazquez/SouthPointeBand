@@ -23,8 +23,8 @@ export default function Index() {
 
     <img src="https://1.bp.blogspot.com/-A1Neip9wnRc/XGHkafCbIMI/AAAAAAAACdY/dejOLxC5RgsTKjF6ZFSjQ7GUwW7UAHVqwCKgBGAs/w3840-h2160-c/sunset-beach-sea-horizon-scenery-8K-165.jpg"></img>
     <p>DEBUT EP</p>
-    <p style={{fontSize:"110px", marginTop:"-60px"}}><b>AURORA</b></p>
-    <button style={{top:"-100px"}}>LISTEN NOW</button>
+    <p style={{fontSize:"110px", marginTop:"120px"}}><b>AURORA</b></p>
+    <button style={{marginTop:"240px"}}>LISTEN NOW</button>
 
     <div className="navigationBar">
       <img src="https://concord.com/wp-content/uploads/2019/03/concord-logo-2019-white.png"></img>

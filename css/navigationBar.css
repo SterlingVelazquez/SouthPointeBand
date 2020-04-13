@@ -38,17 +38,17 @@ img {
 }
 
 p {
-    position:relative;
-    top:20%; 
+    position:absolute;
+    top:30%; 
     left: 6%; 
     font-size:60px;
     font-family: 'Roboto', serif;
     color:white;
-    margin-top:400px;
 }
 
 button {
-    position:relative;
+    position:absolute;
+    top:30%;
     left:6%;
     font-family: 'Roboto', serif;
     font-size:25px;

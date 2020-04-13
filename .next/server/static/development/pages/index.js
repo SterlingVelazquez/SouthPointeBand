@@ -1951,7 +1951,7 @@ function Index() {
   }, "DEBUT EP"), __jsx("p", {
     style: {
       fontSize: "110px",
-      marginTop: "-60px"
+      marginTop: "120px"
     },
     __self: this,
     __source: {
@@ -1968,7 +1968,7 @@ function Index() {
     }
   }, "AURORA")), __jsx("button", {
     style: {
-      top: "-100px"
+      marginTop: "240px"
     },
     __self: this,
     __source: {
